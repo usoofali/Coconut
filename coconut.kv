@@ -1,0 +1,22 @@
+#:kivy 1.11.1
+#:include FirebaseLoginScreen/firebaseloginscreen.kv
+#:import FirebaseLoginScreen FirebaseLoginScreen.firebaseloginscreen.FirebaseLoginScreen
+#:import utils kivy.utils
+#:import IconLeftWidget kivymd.uix.list.IconLeftWidget
+#:import MDActionBottomAppBarButton kivymd.uix.toolbar.MDActionBottomAppBarButton
+ 
+ScreenManager: 
+    FirebaseLoginScreen:
+        id: firebase_login_screen
+        name: "firebase_login_screen"
+        web_api_key: "AIzaSyDLZMgt8t6na99i3dYPIF4qK2XoFvisUWY" # Found in Firebase -> Project Settings -> Web API Key
+        primary_color: utils.get_color_from_hex("#aa98a9")# button color
+        secondary_color: utils.get_color_from_hex("#002147")# text color
+        tertiary_color: utils.get_color_from_hex("#007474") 
+        on_login_success:
+            # Defining this function lets you program what to do when the
+            # user has logged in (probably you'll want to change screens)!
+            # Get the important user info
+            app.user_localId = self.localId
+            app.user_idToken = self.idToken
+            self.ids.screen_manager.current = "main_screen" 

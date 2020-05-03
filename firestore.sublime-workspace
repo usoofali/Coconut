@@ -1,0 +1,536 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"Hello"
+			],
+			[
+				"f",
+				"finditer\tfunction"
+			],
+			[
+				"matc",
+				"matches\tstatement"
+			],
+			[
+				"re",
+				"read\tfunction"
+			],
+			[
+				"v",
+				"viewvalues\tfunction"
+			],
+			[
+				"e",
+				"elements\tfunction"
+			],
+			[
+				"m",
+				"most_common\tfunction"
+			],
+			[
+				"js",
+				"json_data\tstatement"
+			],
+			[
+				"lo",
+				"loads\tfunction"
+			],
+			[
+				"l",
+				"loads\tfunction"
+			],
+			[
+				"pi",
+				"pickle\tmodule"
+			],
+			[
+				"ac",
+				"ace\tstatement"
+			],
+			[
+				"dump",
+				"dumps\tfunction"
+			],
+			[
+				"msg",
+				"msglen\tstatement"
+			],
+			[
+				"fu",
+				"full_msg\tstatement"
+			],
+			[
+				"all",
+				"all_connections\tstatement"
+			],
+			[
+				"ms",
+				"msglen\tstatement"
+			],
+			[
+				"sen",
+				"send_data\tfunction"
+			],
+			[
+				"rec",
+				"recipe\tstatement"
+			],
+			[
+				"ge",
+				"get_connection\tfunction"
+			],
+			[
+				"s",
+				"sleep\tfunction"
+			],
+			[
+				"al",
+				"all_connections\tstatement"
+			],
+			[
+				"send",
+				"send_receive"
+			],
+			[
+				"da",
+				"data_recd\tstatement"
+			],
+			[
+				"__",
+				"__name__\tinstance"
+			],
+			[
+				"a",
+				"add_widget"
+			],
+			[
+				"ins",
+				"inside1\tstatement"
+			],
+			[
+				"ad",
+				"add_widget"
+			],
+			[
+				"tex",
+				"TextInput\tmodule"
+			],
+			[
+				"btt",
+				"buttn"
+			],
+			[
+				"in",
+				"inside1\tstatement"
+			],
+			[
+				"i",
+				"inside2\tstatement"
+			],
+			[
+				"is",
+				"inside21\tstatement"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"c",
+				"contBttn\tstatement"
+			],
+			[
+				"G",
+				"GridLayout\tmodule"
+			],
+			[
+				"B",
+				"Button\tmodule"
+			],
+			[
+				"Lable",
+				"Label\tmodule"
+			],
+			[
+				"coco",
+				"cocoPassword\tstatement"
+			],
+			[
+				"back",
+				"backBttn\tstatement"
+			],
+			[
+				"fo",
+				"font_size"
+			],
+			[
+				"Fa",
+				"False\tinstance"
+			],
+			[
+				"La",
+				"Label\tmodule"
+			],
+			[
+				"L",
+				"Label\tmodule"
+			],
+			[
+				"A",
+				"Account"
+			],
+			[
+				"sel",
+				"self\tparam"
+			],
+			[
+				"inside",
+				"inside2\tstatement"
+			],
+			[
+				"Te",
+				"TextInput\tmodule"
+			],
+			[
+				"co",
+				"cocoId"
+			],
+			[
+				"Co",
+				"CocoFrontPage\tclass"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"reu",
+				"return\tkeyword"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"anaconda",
+				"Anaconda: Vagrant Enable"
+			],
+			[
+				"conda",
+				"Anaconda: Display object docs"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"print(\"Hello\")",
+			"er",
+			"dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read()",
+			"urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) )",
+			"pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path()",
+			"h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'",
+			"import urllib.request,os,hashlib",
+			" import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/aliyu/Desktop/Coconut.sublime-project",
+		"/home/aliyu/.config/sublime-text-3/Packages/User/test.py",
+		"/home/aliyu/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/aliyu/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/aliyu/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/aliyu/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/aliyu/.config/sublime-text-3/Packages/Anaconda/README.md",
+		"/home/aliyu/.config/sublime-text-3/Packages/Conda/Conda.sublime-settings",
+		"/home/aliyu/Desktop/universities",
+		"/home/aliyu/Desktop/DC/FirebaseLoginScreen/welcomescreen.kv",
+		"/home/aliyu/Desktop/DC/tester.py",
+		"/home/aliyu/Desktop/DC/kitchen_sink/buildozer.spec",
+		"/home/aliyu/Desktop/DC/FirebaseLoginScreen/main.kv",
+		"/home/aliyu/Desktop/DC/FirebaseLoginScreen/welcomescreen.py",
+		"/home/aliyu/.config/coconut/refresh_token.txt",
+		"/home/aliyu/Desktop/DC/FirebaseLoginScreen-master/README.md",
+		"/home/aliyu/Documents/PYTHON/chatApp.py",
+		"/home/aliyu/Documents/PYTHON/Python36-32/ship.py",
+		"/home/aliyu/Documents/PYTHON/Python36-32/csc203.py",
+		"/home/aliyu/Documents/PYTHON/Python36-32/bst.py",
+		"/home/aliyu/Documents/PYTHON/socket_client.py",
+		"/home/aliyu/Documents/PYTHON/socket_server.py",
+		"/home/aliyu/Documents/PYTHON/chatApp1.py",
+		"/home/aliyu/Documents/PYTHON/tesst.py",
+		"/home/aliyu/Documents/PYTHON/test1.py",
+		"/home/aliyu/Documents/PYTHON/test2.py",
+		"/home/aliyu/anaconda3/share/kivy-examples/demo/showcase/main.py",
+		"/home/aliyu/code/Coconut/untitled.txt",
+		"/home/aliyu/anaconda3/lib/python3.7/Coconut/FUG-CSC203-0x7d5dd.txt",
+		"/home/aliyu/.Genymobile/genymotion.log",
+		"/home/aliyu/Desktop/kivvy/buildozer.spec",
+		"/home/aliyu/Desktop/CSC400L/413/python/codes/code/chapter10/animation.py",
+		"/home/aliyu/Desktop/CSC400L/413/cheetah and antelope.py",
+		"/home/aliyu/Desktop/CSC400L/413/graphics.py",
+		"/home/aliyu/Downloads/Firebase-Sample-master/buildozer.spec",
+		"/home/aliyu/Downloads/Firebase-Sample-master/main (after changes).py",
+		"/home/aliyu/Documents/PYTHON/soup2.py",
+		"/home/aliyu/Downloads/Firebase-Sample-master/README.md",
+		"/home/aliyu/Downloads/Firebase-Sample-master/main (before changes).py",
+		"/home/aliyu/Desktop/s.py",
+		"/home/aliyu/Desktop/c.py",
+		"/home/aliyu/Desktop/server.py",
+		"/home/aliyu/Desktop/coco.py",
+		"/home/aliyu/Desktop/Unsaved Document 1",
+		"/media/aliyu/SMG/yy.py",
+		"/home/aliyu/development/.bashrc",
+		"/home/aliyu/Downloads/code.txt",
+		"/home/aliyu/anaconda3/lib/python3.7/Coconut/android test/.buildozer/state.db",
+		"/home/aliyu/test.db",
+		"/home/aliyu/Documents/PYTHON/test3.py",
+		"/home/aliyu/Desktop/mary.py",
+		"/home/aliyu/Videos/NETWORK PROGRAMMING/multi_srver.py",
+		"/home/aliyu/java_error_in_PYCHARM_18796.log",
+		"/media/aliyu/48D81FD7D81FC1DC/Users/ALIYU YUSUF/Desktop/palms.txt",
+		"/home/aliyu/Desktop/palms.txt",
+		"/home/aliyu/Desktop/weather.py",
+		"/home/aliyu/anaconda3/lib/python3.7/site-packages/kivy/app.py",
+		"/home/aliyu/.kivy/config.ini",
+		"/home/aliyu/Desktop/c2.py",
+		"/home/aliyu/Videos/NETWORK PROGRAMMING/multi_client.py",
+		"/home/aliyu/Desktop/kivvy/main.py",
+		"/home/aliyu/Videos/NETWORK PROGRAMMING/single_client.py",
+		"/home/aliyu/anaconda3/lib/python3.7/code.py",
+		"/home/aliyu/anaconda3/lib/python3.7/ship2.py",
+		"/home/aliyu/anaconda3/lib/python3.7/ship.py",
+		"/home/aliyu/anaconda3/lib/python3.7/csc203.py",
+		"/home/aliyu/anaconda3/lib/python3.7/bst.py",
+		"/home/aliyu/Videos/NETWORK PROGRAMMING/single_server.py",
+		"/home/aliyu/Documents/PYTHON/soup.py",
+		"/home/aliyu/Desktop/kivvy/prev_details.txt",
+		"/home/aliyu/anaconda3/bin/rst2man.py",
+		"/home/aliyu/Desktop/COCONUT PROJECT/CocoRegistration_SF.py",
+		"/home/aliyu/anaconda3/lib/python3.7/site-packages/bst.py",
+		"/home/aliyu/anaconda3/lib/python3.7/site-packages/bst",
+		"/home/aliyu/anaconda3/bin/aaa.py",
+		"/home/aliyu/anaconda3/bin/aaaa.py",
+		"/media/aliyu/48D81FD7D81FC1DC/LIBRARY FOLDERS/PYTHON/Python36-32/ship.py",
+		"/home/aliyu/PycharmProjects/Coconut/CocoS_RegistrationPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECT/CocoPreTutorMain.py",
+		"/home/aliyu/Desktop/COCONUT PROJECT/Done/CocoLoginPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECT/CocoPreRegistrationPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECT/CocoLoginPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECT/Done/CocoFrontPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECT/CocoAttCodeGenPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECT/CocoAdd_Drop.py",
+		"/home/aliyu/Desktop/COCONUT PROJECT/CocoFrontPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECT/CocoSecurityInfoPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoTutorMain.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoAttCodeGenPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoSecurityInfoPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoAdd_Drop.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoPreTutorMain.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoStudentInfoPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoSignUp_SF.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoSignUpAtt.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoRegistration_SF.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoStudentMainPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoFrontPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoWelcomeStudentPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoWelcomeTutorPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoS_RegistrationPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoPreRegistrationPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoLoginPage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoWelcomePage.py",
+		"/home/aliyu/Desktop/COCONUT PROJECCT/CocoRegistrationPage.py",
+		"/home/aliyu/Desktop/kivvy/coco.py",
+		"/home/aliyu/Documents/PYTHON/test4.py",
+		"/home/aliyu/Documents/PYTHON/cliente.py",
+		"/home/aliyu/Documents/PYTHON/servae.py",
+		"/home/aliyu/client_dina.py",
+		"/home/aliyu/client_dina1.py",
+		"/home/aliyu/serva_ta1.py",
+		"/home/aliyu/serva_ta.py",
+		"/home/aliyu/anaconda3/pkgs/beautifulsoup4-4.7.1-py37_1/lib/python3.7/site-packages/bs4/dammit.py",
+		"/media/aliyu/48D81FD7D81FC1DC/LIBRARY FOLDERS/PYTHON/Python36-32/bst.py",
+		"/media/aliyu/48D81FD7D81FC1DC/LIBRARY FOLDERS/PYTHON/Python36-32/csc203.py",
+		"/media/aliyu/48D81FD7D81FC1DC/LIBRARY FOLDERS/PYTHON/Python36-32/ship2.py",
+		"/home/aliyu/Documents/PYTHON/serva_ta.py",
+		"/home/aliyu/Documents/PYTHON/client_dina.py"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "firestore.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 142.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
